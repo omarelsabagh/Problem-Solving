@@ -1,0 +1,4 @@
+
+
+- convert the string to array split("")
+- switch case on every element of the array
